@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 12 21:25:48 2021
 
-@author: Pragi
-"""
 
 
 Flask==1.1.1
